@@ -1,0 +1,3 @@
+Data was gotten from here: https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/911-hijackers
+
+However, the attribute csv (9_11_HIJACKERS_edited_ATTR.csv) was edited by me using weights from the paper referenced in report and notebook

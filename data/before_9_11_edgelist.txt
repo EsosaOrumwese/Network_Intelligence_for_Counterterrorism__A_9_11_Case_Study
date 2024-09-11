@@ -1,0 +1,60 @@
+Satam Suqami,Wail Alshehri,1
+Satam Suqami,Waleed Alshehri,1
+Wail Alshehri,Satam Suqami,1
+Wail Alshehri,Waleed Alshehri,1
+Majed Moqed,Hani Hanjour,1
+Waleed Alshehri,Satam Suqami,1
+Waleed Alshehri,Wail Alshehri,1
+Waleed Alshehri,Abdul Aziz Al-Omari*,1
+Salem Alhazmi*,Marwan Al-Shehhi,1
+Salem Alhazmi*,Nawaf Alhazmi,1
+Salem Alhazmi*,Ziad Jarrah,1
+Khalid Al-Mihdhar,Hani Hanjour,1
+Khalid Al-Mihdhar,Nawaf Alhazmi,1
+Hani Hanjour,Majed Moqed,1
+Hani Hanjour,Khalid Al-Mihdhar,1
+Hani Hanjour,Mohamed Atta,1
+Hani Hanjour,Marwan Al-Shehhi,1
+Hani Hanjour,Nawaf Alhazmi,1
+Hani Hanjour,Ziad Jarrah,1
+Abdul Aziz Al-Omari*,Waleed Alshehri,1
+Abdul Aziz Al-Omari*,Mohamed Atta,1
+Abdul Aziz Al-Omari*,Marwan Al-Shehhi,1
+Ahmed Alghamdi,Hamza Alghamdi,1
+Ahmed Alnami,Saeed Alghamdi*,1
+Ahmed Alnami,Hamza Alghamdi,1
+Mohamed Atta,Hani Hanjour,1
+Mohamed Atta,Abdul Aziz Al-Omari*,1
+Mohamed Atta,Marwan Al-Shehhi,1
+Mohamed Atta,Nawaf Alhazmi,1
+Mohamed Atta,Ziad Jarrah,1
+Marwan Al-Shehhi,Salem Alhazmi*,1
+Marwan Al-Shehhi,Hani Hanjour,1
+Marwan Al-Shehhi,Abdul Aziz Al-Omari*,1
+Marwan Al-Shehhi,Mohamed Atta,1
+Marwan Al-Shehhi,Fayez Ahmed,1
+Marwan Al-Shehhi,Ziad Jarrah,1
+Fayez Ahmed,Marwan Al-Shehhi,1
+Fayez Ahmed,Mohand Alshehri*,1
+Nawaf Alhazmi,Salem Alhazmi*,1
+Nawaf Alhazmi,Khalid Al-Mihdhar,1
+Nawaf Alhazmi,Hani Hanjour,1
+Nawaf Alhazmi,Ahmed Alnami,1
+Nawaf Alhazmi,Mohamed Atta,1
+Nawaf Alhazmi,Saeed Alghamdi*,1
+Nawaf Alhazmi,Hamza Alghamdi,1
+Ziad Jarrah,Salem Alhazmi*,1
+Ziad Jarrah,Hani Hanjour,1
+Ziad Jarrah,Mohamed Atta,1
+Ziad Jarrah,Marwan Al-Shehhi,1
+Ziad Jarrah,Ahmed Al Haznawi,1
+Mohand Alshehri*,Fayez Ahmed,1
+Mohand Alshehri*,Hamza Alghamdi,1
+Ahmed Al Haznawi,Ziad Jarrah,1
+Ahmed Al Haznawi,Saeed Alghamdi*,1
+Ahmed Al Haznawi,Hamza Alghamdi,1
+Hamza Alghamdi,Ahmed Alghamdi,1
+Hamza Alghamdi,Ahmed Alnami,1
+Hamza Alghamdi,Mohand Alshehri*,1
+Hamza Alghamdi,Saeed Alghamdi*,1
+Hamza Alghamdi,Ahmed Al Haznawi,1

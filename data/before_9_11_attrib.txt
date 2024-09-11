@@ -1,0 +1,19 @@
+Majed Moqed,AA_77_Pentagon,1
+Khalid Al-Mihdhar,AA_77_Pentagon,3
+Hani Hanjour,AA_77_Pentagon,1
+Nawaf Alhazmi,AA_77_Pentagon,2
+Salem Alhazmi*,AA_77_Pentagon,1
+Ahmed Alnami,UA_93_Pennsylvania,1
+Ahmed Alghamdi,UA_175_WTC_South,1
+Saeed Alghamdi*,UA_93_Pennsylvania,1
+Hamza Alghamdi,UA_175_WTC_South,1
+Ahmed Al Haznawi,UA_93_Pennsylvania,1
+Mohand Alshehri*,UA_175_WTC_South,1
+Fayez Ahmed,UA_175_WTC_South,1
+Ziad Jarrah,UA_93_Pennsylvania,4
+Marwan Al-Shehhi,UA_175_WTC_South,3
+Mohamed Atta,AA_11_WTC_North,4
+Abdul Aziz Al-Omari*,AA_11_WTC_North,1
+Waleed Alshehri,AA_11_WTC_North,1
+Wail Alshehri,AA_11_WTC_North,1
+Satam Suqami,AA_11_WTC_North,1
